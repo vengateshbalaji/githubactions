@@ -3,7 +3,7 @@ provider "azurerm" {
 }
 
 data "azurerm_resource_group" "example" {
-  name = "rg_sb_eastus_133366_1_178991092992"
+  name = "rg_sb_eastus_133366_1_178998831474"
 }
 
 output "resource_group_name" {
