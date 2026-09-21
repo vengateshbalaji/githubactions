@@ -55,7 +55,7 @@ permissions:
 jobs:
   terraform:
     name: 'Terraform'
-    runs-on: [self-hosted, linux, ubuntu]
+    runs-on: [self-hosted, Linux, X64]
 
     environment: production
 
